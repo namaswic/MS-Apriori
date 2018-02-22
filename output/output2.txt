@@ -1,0 +1,514 @@
+Frequent 1-Itemsets
+
+274  : { 26 }
+353  : { 33 }
+253  : { 40 }
+327  : { 32 }
+459  : { 19 }
+529  : { 43 }
+298  : { 23 }
+260  : { 4 }
+301  : { 47 }
+260  : { 11 }
+284  : { 10 }
+313  : { 16 }
+318  : { 2 }
+251  : { 39 }
+456  : { 28 }
+556  : { 17 }
+469  : { 37 }
+545  : { 6 }
+
+    Total number of frequent 1-itemsets =  18
+
+Frequent 2 -Itemsets
+
+     54  : { 33, 50 }
+TailCount: 148
+
+     93  : { 33, 26 }
+TailCount: 274
+
+     89  : { 33, 40 }
+TailCount: 253
+
+     116  : { 33, 32 }
+TailCount: 327
+
+     65  : { 33, 8 }
+TailCount: 188
+
+     163  : { 33, 19 }
+TailCount: 459
+
+     68  : { 33, 5 }
+TailCount: 193
+
+     166  : { 33, 43 }
+TailCount: 529
+
+     51  : { 33, 22 }
+TailCount: 144
+
+     111  : { 33, 23 }
+TailCount: 298
+
+     93  : { 33, 11 }
+TailCount: 260
+
+     100  : { 33, 47 }
+TailCount: 301
+
+     89  : { 33, 4 }
+TailCount: 260
+
+     103  : { 33, 10 }
+TailCount: 284
+
+     122  : { 33, 16 }
+TailCount: 313
+
+     83  : { 33, 39 }
+TailCount: 251
+
+     104  : { 33, 2 }
+TailCount: 318
+
+     156  : { 33, 28 }
+TailCount: 456
+
+     201  : { 33, 17 }
+TailCount: 556
+
+     103  : { 33, 46 }
+TailCount: 279
+
+     165  : { 33, 37 }
+TailCount: 469
+
+     195  : { 33, 6 }
+TailCount: 545
+
+     78  : { 50, 19 }
+TailCount: 459
+
+     75  : { 50, 43 }
+TailCount: 529
+
+     50  : { 50, 10 }
+TailCount: 284
+
+     53  : { 50, 2 }
+TailCount: 318
+
+     65  : { 50, 28 }
+TailCount: 456
+
+     60  : { 50, 37 }
+TailCount: 469
+
+     84  : { 50, 6 }
+TailCount: 545
+
+     61  : { 26, 40 }
+TailCount: 253
+
+     82  : { 26, 32 }
+TailCount: 327
+
+     127  : { 26, 19 }
+TailCount: 459
+
+     60  : { 26, 5 }
+TailCount: 193
+
+     155  : { 26, 43 }
+TailCount: 529
+
+     79  : { 26, 23 }
+TailCount: 298
+
+     77  : { 26, 11 }
+TailCount: 260
+
+     80  : { 26, 47 }
+TailCount: 301
+
+     71  : { 26, 4 }
+TailCount: 260
+
+     84  : { 26, 10 }
+TailCount: 284
+
+     88  : { 26, 16 }
+TailCount: 313
+
+     59  : { 26, 39 }
+TailCount: 251
+
+     83  : { 26, 2 }
+TailCount: 318
+
+     125  : { 26, 28 }
+TailCount: 456
+
+     159  : { 26, 17 }
+TailCount: 556
+
+     60  : { 26, 46 }
+TailCount: 279
+
+     126  : { 26, 37 }
+TailCount: 469
+
+     150  : { 26, 6 }
+TailCount: 545
+
+     114  : { 40, 19 }
+TailCount: 459
+
+     117  : { 40, 43 }
+TailCount: 529
+
+     109  : { 40, 28 }
+TailCount: 456
+
+     142  : { 40, 17 }
+TailCount: 556
+
+     142  : { 40, 37 }
+TailCount: 469
+
+     146  : { 40, 6 }
+TailCount: 545
+
+     148  : { 32, 19 }
+TailCount: 459
+
+     176  : { 32, 43 }
+TailCount: 529
+
+     106  : { 32, 23 }
+TailCount: 298
+
+     156  : { 32, 28 }
+TailCount: 456
+
+     170  : { 32, 17 }
+TailCount: 556
+
+     151  : { 32, 37 }
+TailCount: 469
+
+     161  : { 32, 6 }
+TailCount: 545
+
+     104  : { 8, 43 }
+TailCount: 529
+
+     107  : { 8, 17 }
+TailCount: 556
+
+     102  : { 8, 6 }
+TailCount: 545
+
+     247  : { 19, 43 }
+TailCount: 529
+
+     134  : { 19, 23 }
+TailCount: 298
+
+     118  : { 19, 11 }
+TailCount: 260
+
+     138  : { 19, 47 }
+TailCount: 301
+
+     111  : { 19, 4 }
+TailCount: 260
+
+     130  : { 19, 10 }
+TailCount: 284
+
+     142  : { 19, 16 }
+TailCount: 313
+
+     104  : { 19, 39 }
+TailCount: 251
+
+     140  : { 19, 2 }
+TailCount: 318
+
+     213  : { 19, 28 }
+TailCount: 456
+
+     265  : { 19, 17 }
+TailCount: 556
+
+     133  : { 19, 46 }
+TailCount: 279
+
+     211  : { 19, 37 }
+TailCount: 469
+
+     259  : { 19, 6 }
+TailCount: 545
+
+     100  : { 5, 43 }
+TailCount: 529
+
+     103  : { 5, 17 }
+TailCount: 556
+
+     157  : { 43, 23 }
+TailCount: 298
+
+     145  : { 43, 11 }
+TailCount: 260
+
+     158  : { 43, 47 }
+TailCount: 301
+
+     154  : { 43, 4 }
+TailCount: 260
+
+     158  : { 43, 10 }
+TailCount: 284
+
+     162  : { 43, 16 }
+TailCount: 313
+
+     127  : { 43, 39 }
+TailCount: 251
+
+     163  : { 43, 2 }
+TailCount: 318
+
+     258  : { 43, 28 }
+TailCount: 456
+
+     305  : { 43, 17 }
+TailCount: 556
+
+     129  : { 43, 46 }
+TailCount: 279
+
+     232  : { 43, 37 }
+TailCount: 469
+
+     284  : { 43, 6 }
+TailCount: 545
+
+     165  : { 23, 17 }
+TailCount: 556
+
+     174  : { 23, 6 }
+TailCount: 545
+
+    Total number of frequent 2 -itemsets =  94
+
+Frequent 3 -Itemsets
+
+     50  : { 33, 32, 43 }
+TailCount: 176
+
+     57  : { 33, 32, 37 }
+TailCount: 151
+
+     62  : { 33, 19, 32 }
+TailCount: 148
+
+     78  : { 33, 19, 43 }
+TailCount: 247
+
+     75  : { 33, 19, 28 }
+TailCount: 213
+
+     73  : { 33, 19, 37 }
+TailCount: 211
+
+     51  : { 33, 43, 47 }
+TailCount: 158
+
+     57  : { 33, 23, 28 }
+TailCount: 141
+
+     62  : { 33, 23, 37 }
+TailCount: 146
+
+     52  : { 33, 11, 37 }
+TailCount: 128
+
+     57  : { 33, 4, 6 }
+TailCount: 155
+
+     53  : { 33, 19, 10 }
+TailCount: 130
+
+     52  : { 33, 43, 10 }
+TailCount: 158
+
+     53  : { 33, 10, 17 }
+TailCount: 146
+
+     57  : { 33, 19, 16 }
+TailCount: 142
+
+     56  : { 33, 43, 16 }
+TailCount: 162
+
+     65  : { 33, 16, 17 }
+TailCount: 179
+
+     67  : { 33, 16, 37 }
+TailCount: 161
+
+     63  : { 33, 2, 17 }
+TailCount: 171
+
+     50  : { 33, 2, 37 }
+TailCount: 148
+
+     65  : { 33, 2, 6 }
+TailCount: 183
+
+     53  : { 33, 32, 28 }
+TailCount: 156
+
+     77  : { 33, 43, 28 }
+TailCount: 258
+
+     58  : { 33, 26, 17 }
+TailCount: 159
+
+     59  : { 33, 32, 17 }
+TailCount: 170
+
+     89  : { 33, 19, 17 }
+TailCount: 265
+
+     101  : { 33, 43, 17 }
+TailCount: 305
+
+     62  : { 33, 23, 17 }
+TailCount: 165
+
+     55  : { 33, 47, 17 }
+TailCount: 166
+
+     50  : { 33, 39, 17 }
+TailCount: 140
+
+     61  : { 33, 17, 46 }
+TailCount: 160
+
+     51  : { 33, 40, 37 }
+TailCount: 142
+
+     74  : { 33, 43, 37 }
+TailCount: 232
+
+     50  : { 33, 47, 37 }
+TailCount: 142
+
+     59  : { 33, 46, 37 }
+TailCount: 147
+
+     55  : { 33, 26, 6 }
+TailCount: 150
+
+     54  : { 33, 32, 6 }
+TailCount: 161
+
+     92  : { 33, 19, 6 }
+TailCount: 259
+
+     93  : { 33, 43, 6 }
+TailCount: 284
+
+     70  : { 33, 23, 6 }
+TailCount: 174
+
+     54  : { 33, 11, 6 }
+TailCount: 140
+
+     52  : { 33, 47, 6 }
+TailCount: 159
+
+     63  : { 33, 10, 6 }
+TailCount: 167
+
+     78  : { 33, 16, 6 }
+TailCount: 176
+
+     56  : { 33, 46, 6 }
+TailCount: 152
+
+     79  : { 26, 19, 43 }
+TailCount: 247
+
+     60  : { 26, 19, 28 }
+TailCount: 213
+
+     58  : { 26, 19, 37 }
+TailCount: 211
+
+     53  : { 26, 43, 47 }
+TailCount: 158
+
+     50  : { 26, 43, 10 }
+TailCount: 158
+
+     55  : { 26, 16, 17 }
+TailCount: 179
+
+     54  : { 26, 2, 6 }
+TailCount: 183
+
+     77  : { 26, 43, 28 }
+TailCount: 258
+
+     85  : { 26, 19, 17 }
+TailCount: 265
+
+     94  : { 26, 43, 17 }
+TailCount: 305
+
+     70  : { 26, 43, 37 }
+TailCount: 232
+
+     73  : { 26, 19, 6 }
+TailCount: 259
+
+     78  : { 26, 43, 6 }
+TailCount: 284
+
+     55  : { 26, 23, 6 }
+TailCount: 174
+
+     55  : { 26, 10, 6 }
+TailCount: 167
+
+     56  : { 26, 16, 6 }
+TailCount: 176
+
+     118  : { 19, 43, 28 }
+TailCount: 258
+
+     149  : { 19, 43, 17 }
+TailCount: 305
+
+     111  : { 19, 43, 37 }
+TailCount: 232
+
+     132  : { 19, 43, 6 }
+TailCount: 284
+
+    Total number of frequent 3 -itemsets =  65
+
+Frequent 4 -Itemsets
+
+     52  : { 26, 19, 43, 17 }
+TailCount: 149
+
+    Total number of frequent 4 -itemsets =  1
